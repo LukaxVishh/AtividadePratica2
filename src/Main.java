@@ -4,6 +4,8 @@ public class Main {
         
         Sistema.iniciaSistema();
 
+        // SISTEMA ESCRITO POR LUCAS ANTONIO DOMINGUES DE SOUZA OLIVEIRA
+
     }
     
 }
